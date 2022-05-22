@@ -1,2 +1,2 @@
 # foundations
-The foundational libraries of using funcgql
+The foundational libraries of using cloudgql

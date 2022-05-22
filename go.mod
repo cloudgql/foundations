@@ -1,4 +1,4 @@
-module github.com/funcgql/foundations
+module github.com/cloudgql/foundations
 
 go 1.18
 
